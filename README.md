@@ -10,12 +10,13 @@
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **HTML,CSS,JS,PYTHON**
+- 💬 Interests Coding,GYM
 
 - 📫 How to reach me **akashreddykalakonda@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hzCrfEFVpTolub0sinceZfqb3DSkiXXC/view?usp=sharing](https://drive.google.com/file/d/1hzCrfEFVpTolub0sinceZfqb3DSkiXXC/view?usp=sharing)
-- ⚡ Fun fact I do what I enjoy doing !
-- Learning new Skills and applying them is what motivates me in my life .
+- ⚡ Fun fact **I do what I enjoy doing !**
+- **Learning new Skills and applying them is what motivates me in my life.**
 
 
 <h3 align="left">Connect with me:</h3>
